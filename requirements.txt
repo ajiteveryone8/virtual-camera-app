@@ -1,0 +1,6 @@
+opencv-python          # For video processing
+numpy                  # For numerical operations and frame manipulation
+Pillow                 # For image processing
+imageio                # For handling image and video I/O
+imageio[ffmpeg]        # For video encoding/decoding
+pyvirtualcam           # For virtual camera integration
